@@ -1,2 +1,2 @@
 # CSCI-164
-Artificial Intelligence Programming 
+This repository contains projects and assignments for the CSCI 164 Artificial Intelligence Programming course.
